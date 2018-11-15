@@ -1,0 +1,44 @@
+#boton1 {
+ background:teal;
+  position:absolute;
+  left:9%;
+  width: 50px;
+  height: 50px;
+  border: solid 0.4em white;
+}
+img {
+  display:block;
+  margin:auto;
+  width: 250px;
+  height: 250px;
+    box-shadow: 5px 5px 5px red;
+}
+
+h1{
+  color:white;
+  text-align:center;
+  margin:auto;
+}
+
+.movimiento{
+  margin-left: 40%;
+}
+
+body{
+  background-color: black;
+}
+
+iframe{
+  display:block;
+  margin:auto;
+  width: 450px;
+  height: 250px;
+}
+
+a{
+  color : white;
+  font-family: arial; 
+  font-size: 15px;
+}
+
+
